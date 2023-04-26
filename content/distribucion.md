@@ -17,7 +17,7 @@ authors = ["David Baquero"]
 {{<row>}}
 {{<cols col="col-sm-12 col-md-6 text-center">}}
 
-<img src="/img/pack1.png" alt="image" style="max-width: 100%; height: auto;">
+<img src="DvdBqo/webpeter/img/logo.png" alt="image" style="max-width: 100%; height: auto;">
 
 {{</cols>}}
 
