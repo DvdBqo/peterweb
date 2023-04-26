@@ -1,0 +1,10 @@
+weight: 4
+title: "Contacta"
+description: >
+  <ul class="list-style-none">
+    <li>Para más información</li>
+    <li>Contacta con nosotros</li>
+    <li>Confía en Melhealthandpharm</li>
+  </ul>
+image: "img/carousel/contacta-1.png"
+href: "contacto"

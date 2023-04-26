@@ -1,0 +1,36 @@
+<div class="container" id="lab">
+  <section>
+    <div class="row">
+      <div class="col-xs-12 text-justify">
+        <p>{{ .Content }}</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="row">
+      <div class="col-xs-12 col-sm-6">
+        <a href="https://www.alchemlife.es/complemento-alimenticio">
+        <img src="{{ .Params.imagen1 }}" class="img-responsive" alt="alchemlife">
+      </a>
+      </div>
+      <div class="col-xs-12 col-sm-6 text-center text-justify" style="padding-top: 60px;">
+        {{ .Params.texto1 }}
+      </div>
+    </div>
+  </section>
+  <section>
+        <div class="row">
+          <div class="col-xs-12 col-sm-6">
+            <a href="https://sensualintim.com/">
+            <img src="{{ .Params.imagen2 }}" class="img-responsive" alt="sensualintim" class="float-left mr-3">
+            </a>
+          </div>
+          <div class="col-xs-22 col-sm-6 text-justify">
+            {{ .Params.texto2 }}
+          </div>
+
+        </div>
+  </section>
+</div>
+
+

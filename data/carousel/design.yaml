@@ -1,0 +1,11 @@
+weight: 3
+title: "Nuestros Productos"
+description: >
+  <ul class="list-style-none">
+    <li>Soluciones Innovadoras</li>
+    <li>Complementos y suplementos alimenticios</li>
+    <li>Higinene intima</li>
+    <li>Formación técnica de nuestros productos</li>
+  </ul>
+image: "img/carousel/productos-1.png"
+href: "laboratorios"
